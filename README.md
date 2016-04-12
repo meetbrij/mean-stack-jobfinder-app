@@ -1,6 +1,6 @@
 # MEAN JobFinder app
 
-This project is a simple Job Database application developed using MEAN Stack (MongoDB, Ember, Angular and Node).
+This project is a simple Job Database application developed using MEAN Stack (MongoDB, Express, Angular and Node).
 
 Dependencies
 - node.js and npm
